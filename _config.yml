@@ -16,3 +16,5 @@ twitter_username: carolisk
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
