@@ -6,8 +6,8 @@ email: caroliskiwitch@gmail.com
 mailto: "caroliskiwitch@gmail.com"
 description: Social Psychology PhD Student
 baseurl: "" # the subpath of your site, e.g. /blog/
-hostname: "" # used to determine if google analytics should be triggered
-url: http://www.caroliskiwitch.com # the base hostname & protocol for your site
+hostname: ciskiwitch.github.io # used to determine if google analytics should be triggered
+url: http://ciskiwitch.github.io # the base hostname & protocol for your site
 permalink: /:title/
 
 blog_url: 
