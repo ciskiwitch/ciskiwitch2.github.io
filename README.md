@@ -1,3 +1,3 @@
-# jimeh.me
+# caroliskiwitch.com
 
-This is the source-code for my personal website: [jimeh.me](http://jimeh.me/)
+This is the source-code for my personal website: caroliskiwitch (forked from: jimeh/jimeh.github.io)
